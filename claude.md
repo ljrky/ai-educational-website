@@ -1,11 +1,19 @@
-## Workflow
+## 工作流程
 
-1. first, think through the problem. read the codebase and write a plan in tasks/todo.md
-2. the plan should be checklist of todo items.
-3. check in with me before starting work, i will verify the plan.
-4. then, complete the todos one by one, marking them off as you go.
-5. at every steop, give me a high-level explanation of what you changed.
-6. keep every change simple and minimal. avoid big rewrites.
-7. at the end, add a review section in todo.md summarizing the changes.
-8. go through the code you just wrote and confirm it follows security best practices. check that no sensitive date is left in the frontend, and that there are no vulnerabilities an attacker could exploit.
-9. please explain the functionality and code you just built in detail. walk me through what you changed and how it works. act like you are a senior engineer teaching me.
+1.  理解问题与制定计划：首先，仔细分析问题。阅读代码库，并在 `tasks/todo.md` 文件中撰写一份详细的实施计划。
+
+2.  计划格式：该计划应以待办事项清单的形式呈现。
+
+3.  计划确认：在开始执行前，请与我确认计划。我将审核并批准该计划。
+
+4.  执行与跟踪：按顺序逐一完成待办事项，每完成一项即在清单中将其标记为完成。
+
+5.  变更说明：在每一步更改后，请向我提供一份高层次的概要说明，解释你所做的更改。
+
+6.  变更原则：持每次更改简单且最小化。避免进行大规模的重写。
+
+7.  总结回顾：全部完成后，在 `todo.md` 文件的末尾添加一个回顾总结部分，概括所有关键的变更。
+
+8.  安全检查：仔细审查你编写的所有代码，确保其遵循安全最佳实践。重点检查前端是否遗留任何敏感数据，以及是否存在攻击者可能利用的安全漏洞。
+
+9.  代码讲解：最后，请详细解释你实现的功能和编写的代码。逐步讲解你更改了哪些部分以及其工作原理。请以资深工程师指导团队成员的口吻进行说明。
